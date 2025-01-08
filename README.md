@@ -103,6 +103,7 @@ q# GDGPR Activity
 | Inchara CR | 1TU24CS074|
 | basawaraj |1DA23EC022|
 |Sinchana Narasimha Murthy|1TU24CS187 |
+| Aneesh V Hegde          | 1DA22IS004   |
 
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
